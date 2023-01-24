@@ -9,17 +9,17 @@ This project will help generate readme.md files for all your project needs!
 
 - [Usage](#Usage)
 
-- [Contribution](#Contributing)
+- [Contributing](#Contributing)
 
 - [Test](#Test)
 
 - [Questions](#Questions)
 
 ## Installation
-To install, use i npm @8.2.4 in your terminal folder to start.
+To install, use npm i inquirer@8.2.4 in your terminal folder to start.
 
 ## Usage
-To use just go into terminal, copy path of folder then cd "" paste the path into the terminal then press enter. After type node index and begin answering questions!
+To use just go into terminal, copy path of folder then cd "*copy path*" paste the path into the terminal then press enter. After type node index press enter and begin answering questions for your README!
 
 ## Contributing
 Ian Gurgoze
